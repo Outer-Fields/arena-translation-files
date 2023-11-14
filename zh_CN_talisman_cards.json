@@ -1,0 +1,16 @@
+{
+    "STABILITY_STONE": "提高起始防御力。设置 pawn 对齐顺序。",
+    "STABILITY_STONE_GOLD": "提高防御力，黄金变体增加更多起始防御力，但最大防御力提升更少。设置 pawn 对齐顺序。",
+    "PENDANT_OF_DEFENSE": "适度增加最大防御力，并提高起始防御力，以换取较少的起始运气。设置 pawn 对齐顺序。",
+    "PENDANT_OF_DEFENSE_GOLD": "适度增加最大防御力，并大幅提高起始防御力，以换取较少的起始运气。设置 pawn 对齐顺序。",
+    "JEWEL_OF_CONQUEST": "交易起始和最大防御，以获得更高的起始和最大强度。设置 pawn 对齐顺序。",
+    "RELIC_OF_THE_ARCANE": "交易起始和最大防御，以获得更高的起始和最大法力。设置 pawn 对齐顺序。",
+    "OKRITHRIAL_PENDANT_GOLD": "由古老的奥克拉石按顺序排列而成的吊坠，可以增强意志力，以换取最大属性。授予秋葵民间持有者",
+    "CHAOS_CRYSTAL": "略微增加起始运气。将棋子对齐设置为混乱。",
+    "AMULET_OF_ARCANE_CHAOS": "增加法力以换取更少的生命值和防御力。将棋子的排列设置为混乱。",
+    "WARRIORS_ORNAMENT": "以减少生命值和防御来换取大幅增加的力量 将棋子排列设置为混乱。",
+    "FRAGMENT_OF_THE_LUCKMEISTER": "大幅增加运气，同时降低所有其他统计数据。将棋子的排列设置为混乱。",
+    "FRAGMENT_OF_THE_LUCKMEISTER_GOLD": "极大地增加运气，但对其他统计数据造成很大损害。将棋子的排列设置为混乱。",
+    "OKRITHRIAL_PENDANT": "由古老的欧克拉石锻造而成的吊坠，与混乱一致，可以增强意志力，以换取最大属性。授予秋葵民间持有者。",
+    "BALANCE_BEAD": "提高起始和最大生命值。将 pawn 对齐设置为中立"
+}

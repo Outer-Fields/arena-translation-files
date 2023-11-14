@@ -1,0 +1,243 @@
+KEY,en,zh_CN
+_USERNAME,Username,用户名
+_PASSWORD,Password,密码
+_CAPTCHA,Captcha,验证码
+_RESET_PASSWORD,Reset Password,重设密码
+_REGISTER,Register,登记
+_LOGIN,Login,登录
+_QUEUE_MATCH,Queue Match,队列匹配
+_LEADERBOARD,Leaderboard,排行榜
+_SET_BUILDER,Set Builder,集生成器
+_BROWSE_CARDS,Browse Cards,浏览卡片
+_CARD_PACKS,Card Packs,浏览卡片
+_TOKENS,Tokens,代币
+_SETTINGS,Settings,设置
+_CONNECTED,Connected,连接的
+_DISCONNECTED,Disconnected,已断开连接
+_PROJECT_UPDATES,Project Updates,项目更新
+_MUSIC,Music,音乐
+_FUNDS,Funds,资金
+_ASSETS,Assets,资产
+_CARDS,Cards,牌
+_PAWN_SETS,Pawn Sets,典当套装
+_LIFETIME_STATS,LIFETIME STATS,终身统计数据
+_DAILY_STATS,DAILY STATS,每日统计数据
+_WINS,Wins,胜利
+_LOSSES,Losses,损失
+_CONNECTION_FAILED,Connection Failed: Service May Be Down,连接失败：服务可能已关闭
+_SERVER_RESPONSE,Server Responded with: ,服务器响应：
+_LAST_SYNC,Last Sync: ,上次同步：
+_CLIENT_ERROR,CLIENT ERROR: Failed To Make Rest Request,客户端错误：无法发出休息请求
+_IN_QUEUE,In Queue,排队中
+_LEAVE_QUEUE,Leave Queue,离开队列
+_TRIAL_QUEUE,Trial Queue,试用队列
+_SELECT_SET,Select Pawn Set,选择典当集
+_QUEUE_MATCH,Queue Match,队列匹配
+_JOIN_QUEUE,Join Queue,加入队列
+_CARD,Card,卡片
+_PAWN,Pawn,典当
+_PAWN1, Pawn 1,典当 1
+_PAWN2, Pawn 2,典当 2
+_PAWN3, Pawn 3,典当 3
+_PAWN_CARD,Pawn Card:,当卡:
+_TALISMAN,Talisman,护符
+_WEAPON1,Weapon 1,武器 1
+_WEAPON2,Weapon 2,武器 2
+_TALISMAN_CARD,Talisman Card,护身符卡:
+_WEAPON,Weapon,武器
+_WEAPON_CARD1,Weapon Card 1:,武器卡 1:
+_WEAPON_CARD2,Weapon Card 2:,武器卡 2:
+_DECK,Deck,甲板
+_ACTION_DECK,Action Deck,行动套牌
+_ABILITY_DECK,Ability Deck,能力套牌
+_POWER_DECK,Power Deck,动力甲板
+_ACTION,Action,行动
+_ABILITY,Ability,能力
+_POWER,Power,力量
+_ALL_DOMAINS,All Domains,所有域名
+_NONE,None,没有任何
+_CLOSE,Close,出口
+_LEADERBOARD_TITLE,LEADER BOARD,排行榜
+_DAILY_SCORES,Daily Scores,每日得分
+_WEEKLY_SCORES,Weekly Scores,每周分数
+_MONTHLY_SCORES,Monthly Scores,每月分数
+_PLAYER_NAME,Player Name,参赛者姓名
+_WON,Won,韩元
+_LOST,Lost,丢失的
+_RATIO,Ratio,比率
+_LOGIN_ERROR,Error logging in service may be down,登录时出错，服务可能已关闭
+_WEBSOCKET_ERROR,Error Establishing WebSocket Connection. Service May Be Down,建立 WebSocket 连接时出错。服务可能会中断
+_SERVICE_DOWN,Connection Failed: Service May Be Down,连接失败：服务可能已关闭
+_RATE_LIMIT,Rate limited too many requests,速率限制太多请求
+_AUTHENTICATING,Authenticating...,正在验证...
+_SELECT_PAWN,Select Pawn,选择典当
+_SELECT_WEAPON,Select Weapon,选择武器
+_SELECT_TALISMAN,Select Talisman,选择护身符
+_BUILD,Build,建造
+_EMPTY,Empty,空的
+_BACK_TO_MENU,Back To Menu,返回菜单
+_NEW_PAWNSET,New Pawnset,新典当套装
+_DELETE,Delete,删除
+_LOAD,Load,加载
+_SAVE,Save,节省
+_SAVE_AS_NEW,Save As New,另存为新文件
+_SET_NAME,Set Name:,设置名称:
+_SAVED_SETS,Saved Sets,已保存的集
+_SAVE_UPDATE,Save/Update Pawnsets,保存/更新典当集
+_SET_ERROR_WEAPON,ERROR: Pawn And Weapon Types Must Match,错误：典当和武器类型必须匹配
+_SET_ERROR_ACTION,ERROR: Action Deck Must Match Pawn/Weapon Type,错误：动作牌组必须匹配棋子/武器类型
+_SET_ERROR_ACTION2,ERROR: Action Deck Must Contain Cards Of Same Type,错误：行动牌组必须包含相同类型的牌
+_SET_ERROR_NAME,Pawn Set Must Have Name,典当必须有名称
+_SET_OVERWRITE1,Save Will Overwrite Existing pawn Set,保存将覆盖现有的典当集
+_SET_OVERWRITE2,Click OK To Confirm Or Cancel And Select Save As New,单击 OK 确认或取消并选择另存为新
+_SET_SAVE_FAIL1,Failed To Save Too Many Saved Sets,无法保存太多已保存集
+_SET_SAVE_FAIL2,Limit: 5 (10 If Premium),限制：5（高级版则为 10）
+_SET_SAVE_FAIL3,Delete A Set Or Save Over Existing Set,删除集合或保存以代替现有集合
+_SET_CREATE_NEW1,Create New Pawn Set?,创建新的典当集？
+_SET_CREATE_NEW2,Current Pawn Set Will Be Lost If Not Saved,如果不保存当前典当集将会丢失
+_SET_NOT_SELECTED,No Pawnset Selected,未选择典当花色
+_SET_DELETE,Current Pawn Set Will Be Deleted,当前的典当集将被删除
+_SET_NAME,Set Name,设置名称
+_SET_MANY_REQUEST,Too many request Try again in 10s,请求太多 10 秒后重试
+_SERVER_ERROR,SERVER ERROR:,服务器错误
+_SET_SAVED,Pawn Set Saved,典当集已保存
+_SET_CLIENT_FAILED,Client failed to send request,客户端发送请求失败
+_SET_INCOMPLETE,Not Saved Incomplete Pawnset. Set is saved only locally for session,未保存 不完整的典当集
+_SET_DELETED,Pawn Set Deleted,典当集已删除
+_PACK1,1. Accept an offer for a pack token below,1. 接受下面的包代币报价
+_PACK2,"2. Send token to the redemption address","2. 将代币发送至赎回地址"
+_PACK3,"3. Within 5-30 minutes depending on network conditions you will receive the minted cards in your wallet.","3. 根据网络状况5-30 分钟内您将在钱包中收到铸造的卡。"
+_PACK4,4. For the cards to show in your account and to be playable they must be transferred to your DID. You can do this in the CHIA GUI with the bulk transfer option.,4. 为了让卡牌显示在您的帐户中并可以玩，它们必须转移到您的 DID。您可以在 CHIA GUI 中使用批量传输选项来执行此操作。
+_PACK5,* Cards may be minted across multiple blocks,* 卡可以在多个区块中铸造
+_PACK6,* If any issues are encountered. Support can be found on discord @ https://discord.gg/jHcEg8yEwd,* 如果遇到任何问题。可以在 Discord 上找到支持：https://discord.gg/jHcEg8yEwd
+_STARTER_PACK,Starter Pack,入门包
+_BOOSTER_PACK,Booster Pack,补充包
+_REDEEM_GUIDE,Redemption Guide,兑换指南
+_MARKETPLACE,Marketplace,市场
+_NEXT,Next,下一个
+_PREV,Prev,上一页
+_OWNED_CARDS,Owned Cards,拥有的卡
+_FETCH_OFFERS,Fetch Offers,获取优惠
+_TOKEN_OFFERS,Token Offers,代币优惠
+_MIN,Min,分钟
+_MAX,Max,最大限度
+_SETTINGS,Settings,设置
+_DISPLAY_NAME,Display Name,显示名称
+_SAVE_CHANGE,Save Change,保存更改
+_SET_AVATAR,Set Avatar,设置头像
+_SETTING1,* Enter the ID of an NFT owned by your account DID (Limit 10MB | 2048x2048), * 输入您账户 DID 拥有的 NFT ID（限制 10MB | 2048x2048）
+_GAME_OVER,Game Over,游戏结束
+_YOU_WON,You Won,你赢了
+_YOU_LOST,You Lost,你输了
+_OP_FAILED_READY,Opponent Failed to Ready,对手未能做好准备
+_INFO,Info,信息
+_COST,Cost,成本
+_CARD_LEVEL,Card Level: ,"卡牌等级: "
+_IS_PLAYER,Is Player: ,"是玩家: "
+_REPS,Reps: ,"重复: "
+_POS_REPS,Pos. Reps: ,"有益的重复: "
+_NEG_REPS,Neg. Reps: ,"负重复: "
+_HP,HP: ,"健康: "
+_DP,DP: ,"防御: "
+_SP,SP: ,"力量: "
+_MP,MP: ,"法力: "
+_WP,WP: ,"意志: "
+_LP,LP: ,"运气: "
+_PLAYER_EFFECTS,Player Effects  | ,"玩家效果  |"
+_ENEMY_EFFECTS,Enemy Effects  | ,"敌人的影响  |"
+_VIEW_OFFER,View Offer,查看优惠
+_PRICE,Price:,价格:
+_DAMAGE,Damage,损害
+_SELF_DAMAGE,Self Damage,自我伤害
+_DAMAGE_TYPE,Damage Type: ,"损坏类型: "
+_DAMAGE_CLASS,Damage Class: ,"损坏等级: "
+_SELF_DAMAGE2,Self Damage: ,"自我伤害: "
+_ENEMY_DAMAGE,Enemy Damage,敌人伤害
+_REPETITIONS,Repetitions: ,"重复次数: "
+_ENEMY_SCALAR,Enemy Scalar: ,"敌人标量: "
+_ENEMY_CHANCE,Enemy Chance: ,"敌人机会: "
+_ALT_SCALAR,Alt Scalar: ,"替代标量: "
+_ALT_CHANCE,Alt Chance: ,"替代机会: "
+_SELF_SCALAR,Self Scalar: ,"自标量: "
+_SELF_CHANCE,Self Chance: ,"自我机会: "
+_TYPE,Type: ,"类型: "
+_CLASS,Class: ,"班级: "
+_AMOUNT,Amount: ,"数量: "
+_ROLL_OFF,Roll Off: ,"滚下: "
+_ROLL_OFF_TYPE,Roll Off Type: ,"滚落型: "
+_CHANCE,Chance: ,"滚落型: "
+_SCALAR,Scalar: ,"标量: "
+_MULTI_CHANCE,Multi Chance: ,"多次机会: "
+_MULTI_SCALAR,Multi Scalar: ,"多标量: "
+_ROLL_OFF_CHANCE,Roll Off Type: Chance,滚降类型：机会
+_ROLL_OFF_ROUND,Roll Off Type: Round,滚降类型：圆形
+_STATS,Stats,统计数据
+_WEAPON_TYPE,Weapon Type: ,"武器类型: "
+_REGENERATION,Regeneration,统计再生
+_REGEN_TEXT,* Regeneration is stat x WP,* 再生是统计数据 x 工作效率
+_POWER,Power,力量
+_BASE_CHANGE,Base Change,基础统计数据变化
+_MAX_CHANGE,Max Change,最大限制变化
+_ALL_CARDS,All Cards: ,"所有卡牌: "
+_LEVEL,Level: ,"等级: "
+_ALL_TYPES,All Types,所有类型
+_MELEE,Melee,近战化
+_RANGED,Ranged,远程战斗
+_MAGIC,Magic,魔法战斗
+_ALL_LEVELS,All Levels,所有级别
+_LEVEL1,Level 1,1级
+_LEVEL2,Level 2,2级
+_LEVEL3,Level 3,3级
+_LEVEL4,Level 4,4级
+_SELECT,Select,选择
+_OUTR_OFFERS,OUTR Offers,OUTR 优惠
+_OKRA_OFFERS,OKRA Offers,OKRA 优惠
+_XCH_OFFERS,XCH Offers,XCH 优惠
+_HP:,HP:,健康:
+_DP:,DP:,防御:
+_SP:,SP:,力量:
+_MP:,MP:,法力:
+_WP:,WP:,意志:
+_LP:,LP:,运气:
+_ROUND,ROUND:,圆形的:
+_TIME,TIME:,时间:
+_TURN,TURN:,转动:
+_ADD,Add,添加
+_REMOVE,Remove,消除
+_INSPECT,Inspect,检查
+_YOUR_TURN,Your Turn,到你了
+_ENEMY_TURN,Enemy Turn,对手回合
+_PAWN_DIED,Pawn Died,典当死亡
+_ENEMY_PAWN_DIED,Enemy Pawn Died,对手棋子死亡
+_INSIGHT_GRANTED,Insight Granted,获得洞察力
+_MATCH_STARTED,Match Started,比赛开始
+_INVALID_ACTION,Invalid Action,无效动作
+_ACTION_FAILED,Action Failed,操作失败
+_PAUSED,Paused - Player Disconnected,已暂停 - 玩家已断开连接
+_STRENGTH,Strength: ,"力量: "
+_CURABLE,Curable: ,"可治愈: "
+_PAUSED,Paused,已暂停
+_AWAITING_START,Awaiting Start...,等待游戏开始...
+_PLAY_CARD_ON_SELF,Play card on self?,自行激活卡
+_PLAYER,Player,玩家
+_ENEMY,Enemy,敌人
+_LEFT_QUEUE,Left Queue,左队列
+_END_TURN,End Turn,结束转弯
+_REFLECTED,REFLECTED,反映
+_RESISTED,RESISTED,抵抗
+__2X,2X,2X
+_DAMAGED,DAMAGED,损坏的
+_EFFECTED,EFFECTED,影响
+_SUCCESS,SUCCESS,成功
+_UNSUCCESSFUL,UNSUCCESSFUL,不成功
+_CONFUSED,CONFUSED,使困惑
+_PARALYZED,PARALYZED,瘫痪
+_CURE,CURE,治愈
+_BUFF,BUFF,增益
+_CURSED,CURSED,诅咒
+_REMOVE,Remove,取消选择
+_MATCH_FOUND,Match Found,找到匹配项
+_ACCEPT,Accept,接受
+_MISSED_QUEUE,错过队列
+_COOLDOWN,Cool Down,等待排队
+
